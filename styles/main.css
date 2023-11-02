@@ -1,0 +1,15 @@
+.navbar {
+    background-color: yellow;
+}
+
+.footer {
+    background-color: gray;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+:root {
+    --primary: gray;
+    --white: red
+}
